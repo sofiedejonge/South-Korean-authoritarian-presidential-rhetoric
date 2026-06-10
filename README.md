@@ -51,3 +51,6 @@ In your Orange canvas, construct the text mining pipeline using the following co
 4. Running the Analyses
  Connect the preprocessed text to the `Sentiment Analysis` widget. Select the multilingual sentiment, and upload the KNU Sentiment Lexicon. Connect the output to a `Box Plot` grouping by `President` to observe the emotional distribution.
 
+Licence
+
+Code:The source code and computation pipelines in this repository are licensed under the [MIT License](LICENSE) Data: Any newly produced data outputs, configurations, and analytical results generated in this project are licensed under a [Creative Commons Attribution 4.0 International License (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).

@@ -1,5 +1,5 @@
 # South-Korean-authoritarian-presidential-rhetoric
-South Korean Presidential Rhetoric (1961–1992): A Computational Text Analysis
+South Korean Authoritarian Presidential Rhetoric (1961–1992): A Computational Text Analysis
 
 This project performs a computational text analysis on official South Korean presidential speeches delivered during a critical economic and political transition period (1961–1992). By combining Latent Dirichlet Allocation (LDA) topic modeling and dictionary-based sentiment analysis, this study examines how authoritarian and transitioning democratic regimes dynamically adapted their official discourse to secure political survival and manage domestic legitimacy crises.
 
